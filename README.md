@@ -4,7 +4,7 @@
 The **Voting Survey** project provides a RESTful API for managing user registrations, logins, constituencies, and administrative functionalities. It allows users to register, log in, and manage voting-related data efficiently.
 
 ## Author
-**Md Mohsin Haider**  
+**Kundan Krishna**  
 Java Full Stack Developer
 
 ## API Endpoints
